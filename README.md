@@ -1,4 +1,5 @@
 ![GitHub stars](https://img.shields.io/github/stars/SebastienXia/France-IOI-Java-Corrections?style=social)
+[![Star this repo](https://img.shields.io/github/stars/SebastienXia/France-IOI-Java-Corrections?style=social)](https://github.com/SebastienXia/France-IOI-Java-Corrections/stargazers)
 
 ----
 

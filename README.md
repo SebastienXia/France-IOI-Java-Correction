@@ -2,7 +2,7 @@
 
 <img src="images/franceIOI_logo.png">
 
-> Salut, je me présente [@SébastienXia](https://github.com/SebastienXia), étudiant à [l'Université Paris Cité](https://u-paris.fr/) en licence Informatique Fondamentale, je vous mets à disposition des exercices corrigés de France-IOI en langage Java, ses corrections ont était fait par mes propre soins, donc ma solution n'est pas unique il existe différentes manière de résoudre les problème dans ses exercice je vous propose juste les miennes pour que vous ne rester pas bloqué, bien sûr, je vous demande juste de ne pas que faire des CTRL C et CTRL V, il faudra au moins essayez de comprendre le fonctionnement du code proposé et comment le code se comporte.
+> Salut, je me présente [@SébastienXia](https://github.com/SebastienXia), étudiant à [l'Université Paris Cité](https://u-paris.fr/) en licence Informatique Fondamentale, je vous mets à disposition des exercices corrigés de France-IOI en langage Java, ses corrections ont était fait par mes propre soins, donc ma solution n'est pas unique il existe différentes manière de résoudre les problèmes dans ses exercices je vous propose juste les miennes pour que vous ne rester pas bloqué, bien sûr, je vous demande juste de ne pas que faire des CTRL C et CTRL V, il faudra au moins essayez de comprendre le fonctionnement du code proposé et comment le code se comporte.
 
 ⚠️ SI LES LIENS NE FONCTIONNES PAS REGARDER DIRECTEMENT LE CONTENU DU REPO ⬆️
 
@@ -21,4 +21,4 @@
 
 Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
-Copyright (c) 2024 Votre Nom
+Copyright (c) 2024 [@SébastienXia](https://github.com/SebastienXia)

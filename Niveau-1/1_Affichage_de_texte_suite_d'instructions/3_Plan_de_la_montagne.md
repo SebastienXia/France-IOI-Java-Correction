@@ -1,4 +1,4 @@
-# 3 Plan de la montagne
+# 3. Plan de la montagne
 De même que pour l'exercice 2, nous allons réorganiser pour avoir la sortie voulu : 
 ```Java
 class Main {

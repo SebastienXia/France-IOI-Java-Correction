@@ -1,0 +1,18 @@
+# Recette secrèt
+
+Dans cet exercice il fallait faire en sorte d'avoir 4L dans le grand tonneau de 5L, pour ce faire nous avons à dispositions, ` remplir(tonneau); , vider(tonneau); , transferer(tonneauSource, tonneauDestination);`
+avec l'importation de `import static algorea.Robot.*;` : 
+
+```Java
+import static algorea.Robot.*;
+class Main {
+   public static void main(String[] args) {
+      remplir(5);
+      transferer(5, 3);
+      vider(3);
+      transferer(5,3);
+      remplir(5);
+      transferer(5,3);
+   }
+}
+```

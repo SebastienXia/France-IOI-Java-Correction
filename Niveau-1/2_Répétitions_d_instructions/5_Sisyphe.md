@@ -2,6 +2,8 @@
 
 <img src="ressources/schema.png">
 
+<img src="https://commons.wikimedia.org/wiki/File:Punishment_sisyph.jpg?uselang=fr">
+
 Nous devons faire en sorte que le robot monte une pyramide de 21 cas et le redescende, faire cela avec des boucles `for` :
 Nous avons à disposition comme opérations `haut()` , `bas()` , `droite` , `gauche()`.
 

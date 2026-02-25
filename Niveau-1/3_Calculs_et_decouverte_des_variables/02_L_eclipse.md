@@ -10,4 +10,4 @@ class Main {
 }
 ```
 
-le nombre de jours qu'il faudra patienter avant de pouvoir admirer l'éclipse. 
+le nombre de jours qu'il faudra patienter avant de pouvoir admirer l'éclipse est **644 jours** !
